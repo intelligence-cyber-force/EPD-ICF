@@ -9,8 +9,7 @@ pkg install  python
 
 pkg install git
 
-git clone 
-https://github.com/StormRLS/XOIC
+git clone https://github.com/intelligence-cyber-force/EPD-ICF.git
 
 cd XOIC
 ​
