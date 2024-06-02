@@ -14,7 +14,7 @@ git clone https://github.com/intelligence-cyber-force/EPD-ICF.git
 cd XOIC
 ​
 # Main Tool:
-python XOIC.py
+python ICF.py
 
 # Hours 2 Seconds
 python h2s.py
