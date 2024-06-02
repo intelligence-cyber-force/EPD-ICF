@@ -11,7 +11,7 @@ pkg install git
 
 git clone https://github.com/intelligence-cyber-force/EPD-ICF.git
 
-cd EPD
+cd EPD-ICF
 ​
 # Main Tool:
 python ICF.py
